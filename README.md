@@ -60,5 +60,4 @@ The best-performing model was selected based on overall evaluation metrics and c
 ## Author
 
 Durgaprasad V
-B.E. Computer Science and Engineering
 Rajalakshmi Engineering College
